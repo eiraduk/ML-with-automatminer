@@ -10,7 +10,7 @@ Select features which are best for ML
 in this dataset we don't have formula, volume ,...
 we need to split the dataframe into 2 parts. one is for training and other is for testing
 
-our test_df4 will only have composition only
+our test_df will only have composition only
 automatminer will now add the features automatically
 
 preset we used is express_single to give general performance. 
